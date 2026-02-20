@@ -13,4 +13,5 @@ leetcode sql 50
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1667-fix-names-in-a-table) |
 | [1907-count-salary-categories](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1907-count-salary-categories) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
