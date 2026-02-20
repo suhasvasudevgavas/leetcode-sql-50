@@ -7,6 +7,7 @@ leetcode sql 50
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/0197-rising-temperature) |
+| [0626-exchange-seats](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1280-students-and-examinations) |
 | [1527-patients-with-a-condition](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1527-patients-with-a-condition) |
