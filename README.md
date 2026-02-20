@@ -12,4 +12,5 @@ leetcode sql 50
 | [1527-patients-with-a-condition](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1667-fix-names-in-a-table) |
+| [1907-count-salary-categories](https://github.com/suhasvasudevgavas/leetcode-sql-50/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
